@@ -1,2 +1,4 @@
 Git init
 把这个目录变成Git可以管理的仓库
+
+Git commit 告诉Git，把文件提交到仓库
